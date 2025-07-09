@@ -214,3 +214,5 @@ __marimo__/
 .local/
 .profile
 .lesshst
+fpppy_data/*
+*.csv
